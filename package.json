@@ -1,0 +1,23 @@
+{
+  "name": "jse",
+  "description": "Evaluate JavaScript with pipe.",
+  "version": "0.0.1",
+  "author": "You Kinjoh <you.kinjoh@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/youkinjoh/jse.git"
+  },
+  "keywords": [
+    "one liner",
+    "pipe",
+    "command",
+    "cli",
+    "tools"
+  ],
+  "dependencies": {
+    "optimist": "*"
+  },
+  "bin": {"jse": "./bin/jse"}
+}
