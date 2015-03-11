@@ -1,7 +1,7 @@
 {
   "name": "jse",
   "description": "Evaluate JavaScript with pipe.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "You Kinjoh <you.kinjoh@gmail.com>",
   "license": "MIT",
   "private": false,
